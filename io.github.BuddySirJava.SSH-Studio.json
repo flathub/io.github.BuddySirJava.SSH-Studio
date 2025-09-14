@@ -27,7 +27,9 @@
         {
             "name": "blueprint-compiler",
             "buildsystem": "meson",
-            "cleanup": ["*"],
+            "cleanup": [
+                "*"
+            ],
             "sources": [
                 {
                     "type": "git",
@@ -36,7 +38,8 @@
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"
-                    }
+                    },
+                    "commit": "07c9c9df9cd1b6b4454ecba21ee58211e9144a4b"
                 }
             ]
         },

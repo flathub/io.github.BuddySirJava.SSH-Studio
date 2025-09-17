@@ -47,8 +47,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/BuddySirJava/SSH-Studio.git",
-                    "tag": "1.2.2",
-                    "commit": "d8cb8efe870175da9487222e9f41cb3e95274822",
+                    "tag": "1.2.3",
+                    "commit": "4a47234875bc1f03d4bdbb87b63e0a3d030f78b2",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"

@@ -1,7 +1,7 @@
 {
     "app-id": "io.github.BuddySirJava.SSH-Studio",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "48",
+    "runtime-version": "49",
     "sdk": "org.gnome.Sdk",
     "command": "ssh-studio",
     "finish-args": [
@@ -47,8 +47,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/BuddySirJava/SSH-Studio.git",
-                    "tag": "1.2.3",
-                    "commit": "4a47234875bc1f03d4bdbb87b63e0a3d030f78b2",
+                    "tag": "1.3.0",
+                    "commit": "e5d8924f4be400835c3829deb5b4183b017eb65a",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^v([\\d.]+)$"

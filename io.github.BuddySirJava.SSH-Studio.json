@@ -15,7 +15,7 @@
         "--socket=session-bus",
         "--device=dri",
         "--share=ipc",
-        "filesystem=home"
+        "--filesystem=home"
     ],
     "cleanup" : [
         "/include",
